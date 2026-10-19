@@ -7,3 +7,5 @@
 - *Hur hamnar värdena i instansens attribut?* De initieras via anropet till dess konstruktor.
 - *Var sparas den färdiga instansen?* Den sparas i en lista med SupportCases som kallas cases.
 - *Hur används instansen senare i programmet?* Den används senare för att skriva ut/returnera information om supportärendet.
+
+## Förberedelse för diskussion

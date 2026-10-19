@@ -17,7 +17,6 @@ def read_cases():
                     priority=row[3],
                     status=row[4]
                 )
-
                 cases.append(case)
 
     return cases
