@@ -50,11 +50,3 @@ def main():
 
 
 main()
-
-
-'''
-- Var läses raden?
-På rad 10.
-- Hur hämtas värdena från raden?
-
-'''
