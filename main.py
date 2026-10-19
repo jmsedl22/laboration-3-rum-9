@@ -1,5 +1,7 @@
 import csv
+
 from SupportCase import SupportCase
+
 
 def read_cases():
     cases = []
