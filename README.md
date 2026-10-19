@@ -9,7 +9,6 @@
 - *Hur används instansen senare i programmet?* Den används senare för att skriva ut/returnera information om supportärendet.
 
 ## Förberedelse för diskussion
-
 - *Vad döpte ni klassen till?* SupportCase på engelska enligt Python-konvention.
 - *Vilka attribut valde ni?* Samma attribut som kolumnerna i filen.
 - *Vilken metod skapade ni?* read_cases(), som läser supportärenden från en csv-fil.
